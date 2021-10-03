@@ -36,3 +36,8 @@ function csvJSON(csvFile) {
     return result;
 }
 
+function reset() {
+    const output = document.getElementById('output');
+    output.innerText = '';
+}
+
