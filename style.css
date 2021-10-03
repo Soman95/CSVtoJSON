@@ -1,0 +1,14 @@
+body{
+    margin: 0 auto;
+    background-color: grey;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#file{
+    display: flex;
+    justify-content: center;
+}

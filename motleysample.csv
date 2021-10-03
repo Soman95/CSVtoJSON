@@ -1,0 +1,3 @@
+﻿product,price,review,in_stock
+gold,romeo,85,TRUE
+gold,,75,FALSE
